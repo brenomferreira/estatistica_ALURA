@@ -1,1 +1,6 @@
 # estatistica_ALURA
+
+cursos realizados
+1. ...
+2. ...
+3. estatistica-testes-hipotestes ([LINK](https://cursos.alura.com.br/course/estatistica-testes-hipotestes))
